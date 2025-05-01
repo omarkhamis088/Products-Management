@@ -1,0 +1,133 @@
+c:\users\os\documents\visual studio 2012\Projects\Products Management  version 3\Products Management  version 3\bin\Debug\Products Management  version 3.exe.config
+c:\users\os\documents\visual studio 2012\Projects\Products Management  version 3\Products Management  version 3\bin\Debug\Products Management  version 3.exe
+c:\users\os\documents\visual studio 2012\Projects\Products Management  version 3\Products Management  version 3\bin\Debug\Products Management  version 3.pdb
+c:\users\os\documents\visual studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.csprojResolveAssemblyReference.cache
+c:\users\os\documents\visual studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_LOGIN.resources
+c:\users\os\documents\visual studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.Properties.Resources.resources
+c:\users\os\documents\visual studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.csproj.GenerateResource.Cache
+c:\users\os\documents\visual studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.exe
+c:\users\os\documents\visual studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.pdb
+c:\users\os\documents\visual studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_MAIN.resources
+c:\users\os\documents\visual studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ADD_PRODUCT.resources
+c:\users\os\documents\visual studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PRODUCTS.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\bin\Debug\Products Management  version 3.exe.config
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.exe
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.pdb
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\bin\Debug\Products Management  version 3.exe
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\bin\Debug\Products Management  version 3.pdb
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ADD_PRODUCT.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_LOGIN.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_MAIN.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PRODUCTS.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.Properties.Resources.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.csproj.GenerateResource.Cache
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PREVIEW.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CATEGRIES.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.RPT.FRM_RPT_PRODUCT.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ORDERS.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CUSTOMERS_LIST.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PRODUCTS_LIST.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CUSTOMERS.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ORDERS_LIST.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ADD_USER.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_USERS_LIST.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_BACUP.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_RESTORE.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CONFIG.resources
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\bin\Debug\Products Management  version 3.exe.manifest
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\bin\Debug\Products Management  version 3.application
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.exe.manifest
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.application
+C:\Users\Osama Sultan\Documents\Visual Studio 2012\Projects\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.csprojResolveAssemblyReference.cache
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\bin\Debug\Products Management  version 3.exe.config
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.exe
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.pdb
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.csprojResolveAssemblyReference.cache
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ADD_PRODUCT.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ADD_USER.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_BACUP.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CATEGRIES.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CONFIG.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CUSTOMERS.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CUSTOMERS_LIST.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_LOGIN.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_MAIN.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ORDERS.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ORDERS_LIST.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PREVIEW.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PRODUCTS.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PRODUCTS_LIST.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_RESTORE.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_USERS_LIST.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.Properties.Resources.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.RPT.FRM_RPT_PRODUCT.resources
+C:\Users\eng.omar khamis\Desktop\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.csproj.GenerateResource.Cache
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\bin\Debug\Products Management  version 3.exe.config
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.exe
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.pdb
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.csprojResolveAssemblyReference.cache
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ADD_PRODUCT.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ADD_USER.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_BACUP.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CATEGRIES.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CONFIG.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CUSTOMERS.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CUSTOMERS_LIST.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_LOGIN.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_MAIN.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ORDERS.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ORDERS_LIST.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PREVIEW.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PRODUCTS.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PRODUCTS_LIST.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_RESTORE.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_USERS_LIST.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.Properties.Resources.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.RPT.FRM_RPT_PRODUCT.resources
+E:\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.csproj.GenerateResource.Cache
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\bin\Debug\Products Management  version 3.exe.config
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.exe
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.pdb
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.csprojResolveAssemblyReference.cache
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ADD_PRODUCT.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ADD_USER.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_BACUP.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CATEGRIES.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CONFIG.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CUSTOMERS.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CUSTOMERS_LIST.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_LOGIN.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_MAIN.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ORDERS.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ORDERS_LIST.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PREVIEW.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PRODUCTS.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PRODUCTS_LIST.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_RESTORE.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_USERS_LIST.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.Properties.Resources.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.RPT.FRM_RPT_PRODUCT.resources
+C:\Users\eng.omar khamis\Desktop\11\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.csproj.GenerateResource.Cache
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\bin\Debug\Products Management  version 3.exe.config
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.exe
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.pdb
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.csprojResolveAssemblyReference.cache
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ADD_PRODUCT.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ADD_USER.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_BACUP.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CATEGRIES.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CONFIG.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CUSTOMERS.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_CUSTOMERS_LIST.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_LOGIN.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_MAIN.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ORDERS.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_ORDERS_LIST.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PREVIEW.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PRODUCTS.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_PRODUCTS_LIST.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_RESTORE.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.PL.FRM_USERS_LIST.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.Properties.Resources.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products_Management__version_3.RPT.FRM_RPT_PRODUCT.resources
+E:\م.عمر خميس\Defrint_Projects\مشروع C#\Products Management  version 3\Products Management  version 3\obj\Debug\Products Management  version 3.csproj.GenerateResource.Cache
